@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Step 1:- copy the github repo url
 
 Step 2:- open cmd terminal 
@@ -21,3 +22,6 @@ Step9:- move to frontend
 Step10:- move backend
           npm install 
           npm start
+=======
+# MERN_bookstore
+>>>>>>> 8f438a59e77fb28c104723292ab331656698dfe1
