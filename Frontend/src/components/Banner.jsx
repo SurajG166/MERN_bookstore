@@ -1,5 +1,6 @@
 import React from "react";
 import banner from "../../public/Banner.png";
+import additionalImage from "../../public/AdditionalImage.webp"; // Add your additional image here
 
 function Banner() {
   return (
@@ -15,12 +16,19 @@ function Banner() {
               Explore our online bookstore, your one-stop destination for educational books. We offer a vast selection of textbooks, reference materials, and academic resources. Whether you're a student, teacher, or lifelong learner, you'll find the books you need to succeed.
             </p>
           </div>
+          <div className="mt-8">
+            <img
+              src={additionalImage}
+              className="w-full md:w-3/4 mx-auto rounded-lg"
+              alt="Additional"
+            />
+          </div>
         </div>
         <div className="order-1 w-full mt-20 md:w-1/2">
           <img
             src={banner}
             className="md:w-[650px] md:h-[560px] md:ml-12"
-            alt=""
+            alt="Banner"
           />
         </div>
       </div>
