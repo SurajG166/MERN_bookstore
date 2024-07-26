@@ -3,48 +3,48 @@
         "id": 1, 
         "name": "Data Structures and Algorithms",
         "title": "Master the fundamentals of data structures and algorithms with this comprehensive guide designed for students and professionals.",
-        "price": 0,
-        "category":"Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph"
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph",
+        "pdfUrl": "https://www.mta.ca/~rrosebru/oldcourse/263114/Dsa.pdf"
     },
     {
         "id": 2, 
         "name": "Full Stack Development",
         "title": "Learn to build and manage complete web applications from front-end to back-end with this all-inclusive full stack development guide.",
-        "price": 0,
-        "category":"Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph"
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph",
+        "pdfUrl": "https://s3-eu-west-1.amazonaws.com/gxmedia.galileo-press.de/leseproben/5704/reading_sample_sap_press_full_stack_web_development_the_comprehensive_guide.pdf"
     },
     {
         "id": 3, 
         "name": "Java Fundamentals",
         "title": "Grasp the core concepts of Java programming and important OOPs concepts necessary for programming with this essential guide to Java fundamentals.",
-        "price": 0,
-        "category":"Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph"
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph",
+        "pdfUrl": "https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2017SS%20Operating%20Systems/Abraham%20Silberschatz-Operating%20System%20Concepts%20(9th,2012_12).pdf"
     },
     {
         "id": 4, 
         "name": "Operating Systems",
         "title": "Understand the core concepts and architecture of operating systems with this comprehensive guide, ideal for students and professionals alike.",
-        "price": 20,
-        "category":"Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph"
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph",
+        "pdfUrl": "http://example.com/path/to/operating-systems.pdf"
     },
     {
         "id": 5, 
         "name": "Python Programming",
         "title": "Unlock the power of Python with this comprehensive guide to Python programming, perfect for beginners and experienced developers alike.",
-        "price": 20,
-        "category":"Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph"
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph",
+        "pdfUrl": "https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf"
     },
     {
         "id": 6, 
         "name": "AI & ML",
         "title": "Delve into the world of artificial intelligence and machine learning with this in-depth guide, covering essential concepts and practical applications.",
-        "price": 20,
-        "category":"Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph"
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.42515744.1721655546&semt=sph",
+        "pdfUrl": "https://www.routledge.com/rsc/downloads/AI_FreeBook.pdf?srsltid=AfmBOopN92USmaF9CHnkTDEA62H2U0UuVFxUuAyPkRO4h9v9x_YhK2TP"
     }
 ]
